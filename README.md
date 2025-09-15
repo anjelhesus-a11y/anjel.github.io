@@ -35,5 +35,6 @@ description: Bookmark this to keep an eye on my project updates!
     <img src="your-photo.jpg" alt="A nice photo">
   </main>
   <footer>&copy; 2025 My Name</footer>
-</body>
+</body><img width="702" height="681" alt="image" src="https://github.com/user-attachments/assets/d9e9c2de-822e-415f-a231-953b0c2574dd" />
+
 </html>
